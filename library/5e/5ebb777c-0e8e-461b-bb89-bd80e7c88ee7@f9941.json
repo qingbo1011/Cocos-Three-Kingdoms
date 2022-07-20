@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhuzha_mid_001",
+    "atlas": "",
+    "rect": {
+      "x": 114,
+      "y": 40,
+      "width": 267,
+      "height": 149
+    },
+    "offset": {
+      "x": 47.5,
+      "y": -4.5
+    },
+    "originalSize": {
+      "width": 400,
+      "height": 220
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5ebb777c-0e8e-461b-bb89-bd80e7c88ee7@6c48a",
+    "packable": true
+  }
+}

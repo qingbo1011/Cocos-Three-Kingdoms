@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_100331",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 350,
+      "height": 480
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 350,
+      "height": 480
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ce3bf493-52bc-43df-b9b2-06a99df1af38@6c48a",
+    "packable": true
+  }
+}

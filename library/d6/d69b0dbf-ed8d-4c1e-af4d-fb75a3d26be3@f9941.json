@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "facility_icon",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 228,
+      "height": 153
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 228,
+      "height": 153
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d69b0dbf-ed8d-4c1e-af4d-fb75a3d26be3@6c48a",
+    "packable": true
+  }
+}

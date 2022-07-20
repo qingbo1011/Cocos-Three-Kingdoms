@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "donghan_2",
+    "atlas": "1ecf2021-4458-495e-aec1-458624434baf",
+    "rect": {
+      "x": 380,
+      "y": 636,
+      "width": 338,
+      "height": 180
+    },
+    "offset": {
+      "x": -29,
+      "y": 10
+    },
+    "originalSize": {
+      "width": 400,
+      "height": 200
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c17f27cd-d1f4-4080-9472-1367d033093a@6c48a",
+    "packable": true
+  }
+}

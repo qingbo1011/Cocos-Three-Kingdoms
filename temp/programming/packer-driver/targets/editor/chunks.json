@@ -1,0 +1,1669 @@
+{
+  "assets/scripts/chat/ChatItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/utils/DateUtil.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/chat/ChatItemLogic.js",
+    "mTimestamp": 1647658973980
+  },
+  "assets/scripts/Main.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "__unresolved_2": "assets/scripts/core/LoaderManager.js",
+      "__unresolved_3": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_4": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_5": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_6": "assets/scripts/map/MapCommand.js",
+      "__unresolved_7": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_8": "assets/scripts/network/http/HttpManager.js",
+      "__unresolved_9": "assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_10": "assets/scripts/network/socket/NetManager.js",
+      "__unresolved_11": "assets/scripts/network/socket/NetNode.js",
+      "__unresolved_12": "assets/scripts/skill/SkillCommand.js",
+      "__unresolved_15": "assets/scripts/utils/EventMgr.js",
+      "__unresolved_13": "assets/scripts/utils/Toast.js",
+      "__unresolved_14": "assets/scripts/utils/Tools.js",
+      "__unresolved_1": "assets/scripts/config/GameConfig.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/Main.js",
+    "mTimestamp": 1647658973951
+  },
+  "assets/scripts/chat/ChatProxy.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/chat/ChatProxy.js",
+    "mTimestamp": 1647658973999
+  },
+  "assets/scripts/chat/ChatLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/chat/ChatCommand.js",
+      "__unresolved_1": "assets/scripts/map/MapCommand.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js",
+      "__unresolved_3": "assets/scripts/utils/ListLogic.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/chat/ChatLogic.js",
+    "mTimestamp": 1647658973803
+  },
+  "assets/scripts/chat/ChatCommand.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/scripts/chat/ChatProxy.js",
+      "__unresolved_2": "assets/scripts/config/ServerConfig.js",
+      "__unresolved_1": "assets/scripts/network/socket/NetManager.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/chat/ChatCommand.js",
+    "mTimestamp": 1647658973841
+  },
+  "assets/scripts/common/BgLogic.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/common/BgLogic.js",
+    "mTimestamp": 1647658974050
+  },
+  "assets/scripts/common/LoadingLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/common/LoadingLogic.js",
+    "mTimestamp": 1647658974070
+  },
+  "assets/scripts/config/HttpConfig.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/config/HttpConfig.js",
+    "mTimestamp": 1647658974013
+  },
+  "assets/scripts/config/GameConfig.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/config/GameConfig.js",
+    "mTimestamp": 1647677578647
+  },
+  "assets/scripts/config/Basci.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/config/Basci.js",
+    "mTimestamp": 1647658974091
+  },
+  "assets/scripts/config/skill/Skill.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/config/skill/Skill.js",
+    "mTimestamp": 1647658974118
+  },
+  "assets/scripts/core/LoaderManager.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/core/LoaderManager.js",
+    "mTimestamp": 1647658974162
+  },
+  "assets/scripts/config/ServerConfig.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/config/ServerConfig.js",
+    "mTimestamp": 1647658974102
+  },
+  "assets/scripts/libs/convert.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/libs/convert.js",
+    "mTimestamp": 1647658974341
+  },
+  "assets/scripts/general/ArmyProxy.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/utils/DateUtil.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/general/ArmyProxy.js",
+    "mTimestamp": 1647658974217
+  },
+  "assets/scripts/general/ArmyCommand.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_5": "assets/scripts/general/ArmyProxy.js",
+      "__unresolved_6": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_7": "assets/scripts/general/GeneralProxy.js",
+      "__unresolved_1": "assets/scripts/config/ServerConfig.js",
+      "__unresolved_2": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "assets/scripts/map/MapCommand.js",
+      "__unresolved_4": "assets/scripts/network/socket/NetManager.js",
+      "__unresolved_8": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/general/ArmyCommand.js",
+    "mTimestamp": 1647658974322
+  },
+  "assets/scripts/libs/crypto/crypto.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/libs/crypto/crypto.js",
+    "mTimestamp": 1647658974728
+  },
+  "assets/scripts/libs/gzip/deflate-js.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/libs/gzip/rawdeflate.js",
+      "__unresolved_1": "assets/scripts/libs/gzip/rawinflate.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/libs/gzip/deflate-js.js",
+    "mTimestamp": 1647658974531
+  },
+  "assets/scripts/libs/crypto/md5.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/libs/crypto/md5.js",
+    "mTimestamp": 1647658974522
+  },
+  "assets/scripts/libs/gzip/crc32.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/libs/gzip/crc32.js",
+    "mTimestamp": 1647658974768
+  },
+  "assets/scripts/libs/gzip/gzip.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/libs/gzip/crc32.js",
+      "__unresolved_2": "assets/scripts/libs/gzip/deflate-js.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/libs/gzip/gzip.js",
+    "mTimestamp": 1647658974753
+  },
+  "assets/scripts/general/GeneralCommand.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/scripts/general/GeneralProxy.js",
+      "__unresolved_1": "assets/scripts/config/ServerConfig.js",
+      "__unresolved_2": "assets/scripts/network/socket/NetManager.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/general/GeneralCommand.js",
+    "mTimestamp": 1647658974384
+  },
+  "assets/scripts/libs/gzip/rawdeflate.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/libs/gzip/rawdeflate.js",
+    "mTimestamp": 1647658974877
+  },
+  "assets/scripts/libs/gzip/rawinflate.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/libs/gzip/rawinflate.js",
+    "mTimestamp": 1647658975005
+  },
+  "assets/scripts/login/CreateLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/config/ServerConfig.js",
+      "__unresolved_2": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/login/CreateLogic.js",
+    "mTimestamp": 1647658975033
+  },
+  "assets/scripts/general/GeneralProxy.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/general/GeneralProxy.js",
+    "mTimestamp": 1647658974434
+  },
+  "assets/scripts/login/LoginCommand.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/config/HttpConfig.js",
+      "__unresolved_2": "assets/scripts/config/ServerConfig.js",
+      "__unresolved_12": "assets/scripts/libs/crypto/md5.js",
+      "__unresolved_6": "assets/scripts/login/LoginProxy.js",
+      "__unresolved_8": "assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "assets/scripts/network/http/HttpManager.js",
+      "__unresolved_7": "assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_4": "assets/scripts/network/socket/NetManager.js",
+      "__unresolved_10": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_11": "assets/scripts/utils/EventMgr.js",
+      "__unresolved_9": "assets/scripts/utils/LocalCache.js",
+      "__unresolved_5": "assets/scripts/utils/Tools.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/login/LoginCommand.js",
+    "mTimestamp": 1647658974924
+  },
+  "assets/scripts/login/LoginProxy.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/login/LoginProxy.js",
+    "mTimestamp": 1647658974937
+  },
+  "assets/scripts/login/LoginLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js",
+      "__unresolved_1": "assets/scripts/utils/LocalCache.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/login/LoginLogic.js",
+    "mTimestamp": 1647658975053
+  },
+  "assets/scripts/map/MapArmyLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_2": "assets/scripts/general/ArmyProxy.js",
+      "__unresolved_4": "assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "assets/scripts/map/entries/ArmyLogic.js",
+      "__unresolved_5": "assets/scripts/map/MapUtil.js",
+      "__unresolved_6": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapArmyLogic.js",
+    "mTimestamp": 1647658975127
+  },
+  "assets/scripts/map/MapBaseLayerLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapCommand.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapBaseLayerLogic.js",
+    "mTimestamp": 1647658975088
+  },
+  "assets/scripts/map/MapBuildProxy.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "assets/scripts/map/MapProxy.js",
+      "__unresolved_4": "assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_5": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapBuildProxy.js",
+    "mTimestamp": 1647658975185
+  },
+  "assets/scripts/map/MapBuildTagLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_1": "assets/scripts/map/entries/BuildTagLogic.js",
+      "__unresolved_3": "assets/scripts/map/MapUtil.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapBuildTagLogic.js",
+    "mTimestamp": 1647658975140
+  },
+  "assets/scripts/map/MapCityLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_3": "assets/scripts/map/MapUtil.js",
+      "__unresolved_2": "assets/scripts/map/entries/CityLogic.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapCityLogic.js",
+    "mTimestamp": 1647658975221
+  },
+  "assets/scripts/map/MapCityProxy.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapUtil.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapCityProxy.js",
+    "mTimestamp": 1647658975747
+  },
+  "assets/scripts/map/MapCommand.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/config/ServerConfig.js",
+      "__unresolved_2": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_3": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_6": "assets/scripts/map/MapBuildProxy.js",
+      "__unresolved_7": "assets/scripts/map/MapCityProxy.js",
+      "__unresolved_8": "assets/scripts/map/MapProxy.js",
+      "__unresolved_9": "assets/scripts/map/MapUtil.js",
+      "__unresolved_10": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_4": "assets/scripts/network/socket/NetManager.js",
+      "__unresolved_5": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_11": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapCommand.js",
+    "mTimestamp": 1647658975287
+  },
+  "assets/scripts/map/MapBuildTipsLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_1": "assets/scripts/map/entries/BuildTipsLogic.js",
+      "__unresolved_3": "assets/scripts/map/MapUtil.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapBuildTipsLogic.js",
+    "mTimestamp": 1647658975204
+  },
+  "assets/scripts/map/MapLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "assets/scripts/map/MapUtil.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapLogic.js",
+    "mTimestamp": 1647658975444
+  },
+  "assets/scripts/map/MapFacilityBuildLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_3": "assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "assets/scripts/map/entries/FacilityBuildLogic.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapFacilityBuildLogic.js",
+    "mTimestamp": 1647658975405
+  },
+  "assets/scripts/map/MapProxy.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapUtil.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapProxy.js",
+    "mTimestamp": 1647658975494
+  },
+  "assets/scripts/map/MapClickUILogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/ArmyProxy.js",
+      "__unresolved_3": "assets/scripts/map/MapBuildProxy.js",
+      "__unresolved_4": "assets/scripts/map/MapCityProxy.js",
+      "__unresolved_5": "assets/scripts/map/MapCommand.js",
+      "__unresolved_6": "assets/scripts/map/MapProxy.js",
+      "__unresolved_7": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_8": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapClickUILogic.js",
+    "mTimestamp": 1647658975384
+  },
+  "assets/scripts/map/MapResBuildLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_3": "assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "assets/scripts/map/entries/ResBuildLogic.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapResBuildLogic.js",
+    "mTimestamp": 1647658975511
+  },
+  "assets/scripts/map/MapSysCityLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_2": "assets/scripts/map/MapUtil.js",
+      "__unresolved_3": "assets/scripts/map/entries/SysCityLogic.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapSysCityLogic.js",
+    "mTimestamp": 1647658975543
+  },
+  "assets/scripts/map/MapResLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_3": "assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "assets/scripts/map/entries/ResLogic.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapResLogic.js",
+    "mTimestamp": 1647658975526
+  },
+  "assets/scripts/map/MapUtil.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapCommand.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapUtil.js",
+    "mTimestamp": 1647658975626
+  },
+  "assets/scripts/map/entries/ArmyLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "assets/scripts/utils/DateUtil.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/entries/ArmyLogic.js",
+    "mTimestamp": 1647658975650
+  },
+  "assets/scripts/map/entries/BuildTagLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/entries/BuildTagLogic.js",
+    "mTimestamp": 1647658975590
+  },
+  "assets/scripts/map/MapTouchLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapClickUILogic.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "assets/scripts/map/MapUtil.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/MapTouchLogic.js",
+    "mTimestamp": 1647658975574
+  },
+  "assets/scripts/map/entries/CityLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_1": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/entries/CityLogic.js",
+    "mTimestamp": 1647658975709
+  },
+  "assets/scripts/map/entries/ResBuildLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/entries/ResBuildLogic.js",
+    "mTimestamp": 1647658975804
+  },
+  "assets/scripts/map/ui/ArmySelectNodeLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "assets/scripts/map/ui/ArmySelectItemLogic.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/ArmySelectNodeLogic.js",
+    "mTimestamp": 1647658976031
+  },
+  "assets/scripts/map/entries/BuildTipsLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_1": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/entries/BuildTipsLogic.js",
+    "mTimestamp": 1647658975677
+  },
+  "assets/scripts/map/ui/ArmySelectItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/ArmyProxy.js",
+      "__unresolved_2": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_4": "assets/scripts/map/ui/GeneralHeadLogic.js",
+      "__unresolved_5": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/ArmySelectItemLogic.js",
+    "mTimestamp": 1647658975906
+  },
+  "assets/scripts/map/entries/ResLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapProxy.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/entries/ResLogic.js",
+    "mTimestamp": 1647658975830
+  },
+  "assets/scripts/map/entries/SysCityLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "assets/scripts/map/MapProxy.js",
+      "__unresolved_1": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/entries/SysCityLogic.js",
+    "mTimestamp": 1647658975863
+  },
+  "assets/scripts/map/ui/CityAboutLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_2": "assets/scripts/map/ui/CityArmyItemLogic.js",
+      "__unresolved_3": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/CityAboutLogic.js",
+    "mTimestamp": 1647658976061
+  },
+  "assets/scripts/map/ui/CityArmyItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/ArmyProxy.js",
+      "__unresolved_2": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_5": "assets/scripts/map/ui/GeneralHeadLogic.js",
+      "__unresolved_4": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_6": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/CityArmyItemLogic.js",
+    "mTimestamp": 1647658975954
+  },
+  "assets/scripts/map/ui/CollectLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_4": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_5": "assets/scripts/utils/EventMgr.js",
+      "__unresolved_3": "assets/scripts/utils/Tools.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/CollectLogic.js",
+    "mTimestamp": 1647658976222
+  },
+  "assets/scripts/map/entries/FacilityBuildLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "assets/scripts/map/MapProxy.js",
+      "__unresolved_4": "assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "assets/scripts/utils/DateUtil.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/entries/FacilityBuildLogic.js",
+    "mTimestamp": 1647658975779
+  },
+  "assets/scripts/map/ui/DrawLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/DrawLogic.js",
+    "mTimestamp": 1647658976193
+  },
+  "assets/scripts/map/ui/CityGeneralItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_2": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "assets/scripts/general/GeneralProxy.js",
+      "__unresolved_5": "assets/scripts/map/ui/GeneralHeadLogic.js",
+      "__unresolved_6": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_4": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_7": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/CityGeneralItemLogic.js",
+    "mTimestamp": 1647658976011
+  },
+  "assets/scripts/map/ui/CityArmySettingLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/ArmyProxy.js",
+      "__unresolved_2": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_4": "assets/scripts/general/GeneralProxy.js",
+      "__unresolved_6": "assets/scripts/map/MapCommand.js",
+      "__unresolved_8": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_7": "assets/scripts/map/ui/CityGeneralItemLogic.js",
+      "__unresolved_5": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_9": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/CityArmySettingLogic.js",
+    "mTimestamp": 1647658976169
+  },
+  "assets/scripts/map/ui/DrawRLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/ui/GeneralItemLogic.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/DrawRLogic.js",
+    "mTimestamp": 1647658976285
+  },
+  "assets/scripts/map/ui/FacilityAdditionItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "assets/scripts/map/ui/MapUIProxy.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/FacilityAdditionItemLogic.js",
+    "mTimestamp": 1647658976263
+  },
+  "assets/scripts/map/ui/FacilityListLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/ui/FacilityDesLogic.js",
+      "__unresolved_2": "assets/scripts/map/ui/FacilityItemLogic.js",
+      "__unresolved_3": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/FacilityListLogic.js",
+    "mTimestamp": 1647658976398
+  },
+  "assets/scripts/map/ui/FacilityItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/FacilityItemLogic.js",
+    "mTimestamp": 1647658976309
+  },
+  "assets/scripts/map/ui/Dialog.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/Dialog.js",
+    "mTimestamp": 1647658976236
+  },
+  "assets/scripts/map/ui/GeneralAddPrLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "assets/scripts/general/GeneralProxy.js",
+      "__unresolved_3": "assets/scripts/map/ui/GeneralItemLogic.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/GeneralAddPrLogic.js",
+    "mTimestamp": 1647658976480
+  },
+  "assets/scripts/map/ui/FacilityDesLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "assets/scripts/map/ui/FacilityAdditionItemLogic.js",
+      "__unresolved_4": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "assets/scripts/utils/DateUtil.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/FacilityDesLogic.js",
+    "mTimestamp": 1647658976358
+  },
+  "assets/scripts/map/ui/GeneralDesLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "assets/scripts/general/GeneralProxy.js",
+      "__unresolved_4": "assets/scripts/map/ui/GeneralItemLogic.js",
+      "__unresolved_5": "assets/scripts/map/ui/SkillIconLogic.js",
+      "__unresolved_3": "assets/scripts/skill/SkillCommand.js",
+      "__unresolved_6": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/GeneralDesLogic.js",
+    "mTimestamp": 1647658976598
+  },
+  "assets/scripts/map/ui/GeneralHeadLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/GeneralCommand.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/GeneralHeadLogic.js",
+    "mTimestamp": 1647658976520
+  },
+  "assets/scripts/map/ui/FortressAbout.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_3": "assets/scripts/map/MapCommand.js",
+      "__unresolved_4": "assets/scripts/map/MapProxy.js",
+      "__unresolved_5": "assets/scripts/map/ui/CityArmyItemLogic.js",
+      "__unresolved_2": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_6": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/FortressAbout.js",
+    "mTimestamp": 1647658976442
+  },
+  "assets/scripts/map/ui/GeneralConvertLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "assets/scripts/map/ui/GeneralItemLogic.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/GeneralConvertLogic.js",
+    "mTimestamp": 1647658976549
+  },
+  "assets/scripts/map/ui/GeneralComposeLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "assets/scripts/map/ui/GeneralItemLogic.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/GeneralComposeLogic.js",
+    "mTimestamp": 1647658976505
+  },
+  "assets/scripts/map/ui/GeneralInfoLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/GeneralInfoLogic.js",
+    "mTimestamp": 1647658976620
+  },
+  "assets/scripts/map/ui/GeneralItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "assets/scripts/general/GeneralProxy.js",
+      "__unresolved_3": "assets/scripts/map/ui/GeneralHeadLogic.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/GeneralItemLogic.js",
+    "mTimestamp": 1647658976927
+  },
+  "assets/scripts/map/ui/GeneralRosterListLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/GeneralRosterListLogic.js",
+    "mTimestamp": 1647658976638
+  },
+  "assets/scripts/map/ui/GeneralListLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/GeneralListLogic.js",
+    "mTimestamp": 1647658976693
+  },
+  "assets/scripts/map/ui/GeneralRosterLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/GeneralProxy.js",
+      "__unresolved_2": "assets/scripts/map/ui/GeneralHeadLogic.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/GeneralRosterLogic.js",
+    "mTimestamp": 1647658976668
+  },
+  "assets/scripts/map/ui/MapUICommand.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/config/ServerConfig.js",
+      "__unresolved_2": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_4": "assets/scripts/map/MapCommand.js",
+      "__unresolved_5": "assets/scripts/map/ui/MapUIProxy.js",
+      "__unresolved_3": "assets/scripts/network/socket/NetManager.js",
+      "__unresolved_6": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/MapUICommand.js",
+    "mTimestamp": 1647658977067
+  },
+  "assets/scripts/map/ui/MapUILogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_2": "assets/scripts/map/ui/ArmySelectNodeLogic.js",
+      "__unresolved_3": "assets/scripts/map/ui/CityArmySettingLogic.js",
+      "__unresolved_4": "assets/scripts/map/ui/FacilityListLogic.js",
+      "__unresolved_5": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_6": "assets/scripts/map/ui/Dialog.js",
+      "__unresolved_8": "assets/scripts/map/MapCommand.js",
+      "__unresolved_9": "assets/scripts/map/ui/FortressAbout.js",
+      "__unresolved_10": "assets/scripts/map/ui/CityAboutLogic.js",
+      "__unresolved_11": "assets/scripts/map/ui/GeneralListLogic.js",
+      "__unresolved_14": "assets/scripts/map/ui/GeneralInfoLogic.js",
+      "__unresolved_16": "assets/scripts/map/ui/DrawRLogic.js",
+      "__unresolved_18": "assets/scripts/map/ui/SkillInfoLogic.js",
+      "__unresolved_17": "assets/scripts/map/ui/SkillLogic.js",
+      "__unresolved_12": "assets/scripts/map/ui/TransformLogic.js",
+      "__unresolved_15": "assets/scripts/map/ui/WarReportLogic.js",
+      "__unresolved_7": "assets/scripts/union/UnionCommand.js",
+      "__unresolved_19": "assets/scripts/utils/EventMgr.js",
+      "__unresolved_13": "assets/scripts/utils/Tools.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/MapUILogic.js",
+    "mTimestamp": 1647658976882
+  },
+  "assets/scripts/map/ui/RightArmyItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/ArmyProxy.js",
+      "__unresolved_2": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_4": "assets/scripts/map/MapCommand.js",
+      "__unresolved_6": "assets/scripts/map/ui/GeneralHeadLogic.js",
+      "__unresolved_5": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_7": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/RightArmyItemLogic.js",
+    "mTimestamp": 1647658976971
+  },
+  "assets/scripts/map/ui/RightCityItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/RightCityItemLogic.js",
+    "mTimestamp": 1647658976991
+  },
+  "assets/scripts/map/ui/MapUIProxy.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "assets/scripts/utils/DateUtil.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/MapUIProxy.js",
+    "mTimestamp": 1647658976779
+  },
+  "assets/scripts/map/ui/RightTagItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/RightTagItemLogic.js",
+    "mTimestamp": 1647658977102
+  },
+  "assets/scripts/map/ui/RightInfoNodeLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "assets/scripts/map/ui/RightArmyItemLogic.js",
+      "__unresolved_5": "assets/scripts/map/ui/RightTagItemLogic.js",
+      "__unresolved_4": "assets/scripts/map/ui/RightCityItemLogic.js",
+      "__unresolved_6": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/RightInfoNodeLogic.js",
+    "mTimestamp": 1647658977027
+  },
+  "assets/scripts/map/ui/SkillIconLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/skill/SkillCommand.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/SkillIconLogic.js",
+    "mTimestamp": 1647658977084
+  },
+  "assets/scripts/map/ui/SkillItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/ui/SkillIconLogic.js",
+      "__unresolved_1": "assets/scripts/skill/SkillCommand.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/SkillItemLogic.js",
+    "mTimestamp": 1647658977161
+  },
+  "assets/scripts/map/ui/SkillLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/skill/SkillProxy.js",
+      "__unresolved_1": "assets/scripts/skill/SkillCommand.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/SkillLogic.js",
+    "mTimestamp": 1647658977185
+  },
+  "assets/scripts/map/ui/SmallMapLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "assets/scripts/map/MapUtil.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/SmallMapLogic.js",
+    "mTimestamp": 1647658977123
+  },
+  "assets/scripts/map/ui/SkillInfoLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "assets/scripts/map/ui/SkillIconLogic.js",
+      "__unresolved_2": "assets/scripts/skill/SkillCommand.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/SkillInfoLogic.js",
+    "mTimestamp": 1647658977230
+  },
+  "assets/scripts/map/ui/TransformLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/TransformLogic.js",
+    "mTimestamp": 1647658977297
+  },
+  "assets/scripts/map/ui/UnionButtonLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_1": "assets/scripts/union/UnionCommand.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/UnionButtonLogic.js",
+    "mTimestamp": 1647658977144
+  },
+  "assets/scripts/map/ui/WarButtonLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/WarButtonLogic.js",
+    "mTimestamp": 1647658977243
+  },
+  "assets/scripts/map/ui/WarReportDesItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/general/GeneralCommand.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/WarReportDesItemLogic.js",
+    "mTimestamp": 1647658977315
+  },
+  "assets/scripts/map/ui/WarReportDesLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/utils/ListLogic.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/WarReportDesLogic.js",
+    "mTimestamp": 1647658977261
+  },
+  "assets/scripts/map/ui/WarReportItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_5": "assets/scripts/map/ui/GeneralItemLogic.js",
+      "__unresolved_2": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/WarReportItemLogic.js",
+    "mTimestamp": 1647658977392
+  },
+  "assets/scripts/map/ui/WarReportLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "assets/scripts/map/ui/WarReportDesLogic.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js",
+      "__unresolved_4": "assets/scripts/utils/ListLogic.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/map/ui/WarReportLogic.js",
+    "mTimestamp": 1647658977358
+  },
+  "assets/scripts/network/http/HttpInvoke.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/network/http/HttpInvoke.js",
+    "mTimestamp": 1647658977561
+  },
+  "assets/scripts/network/http/HttpManager.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/network/http/HttpInvoke.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/network/http/HttpManager.js",
+    "mTimestamp": 1647658977338
+  },
+  "assets/scripts/network/socket/NetInterface.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/network/socket/NetInterface.js",
+    "mTimestamp": 1647658977404
+  },
+  "assets/scripts/network/socket/NetManager.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/network/socket/NetNode.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/network/socket/NetManager.js",
+    "mTimestamp": 1647658977327
+  },
+  "assets/scripts/network/socket/NetNode.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_2": "assets/scripts/network/socket/NetTimer.js",
+      "__unresolved_3": "assets/scripts/network/socket/WebSock.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/network/socket/NetNode.js",
+    "mTimestamp": 1647658977484
+  },
+  "assets/scripts/network/socket/NetTimer.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/network/socket/NetTimer.js",
+    "mTimestamp": 1647658977440
+  },
+  "assets/scripts/network/socket/WebSock.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/libs/crypto/crypto.js",
+      "__unresolved_2": "assets/scripts/libs/gzip/gzip.js",
+      "__unresolved_3": "assets/scripts/libs/convert.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/network/socket/WebSock.js",
+    "mTimestamp": 1647658977425
+  },
+  "assets/scripts/scene/MapScene.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapResBuildLogic.js",
+      "__unresolved_2": "assets/scripts/map/MapBuildTipsLogic.js",
+      "__unresolved_3": "assets/scripts/map/MapCityLogic.js",
+      "__unresolved_4": "assets/scripts/map/MapCommand.js",
+      "__unresolved_5": "assets/scripts/map/MapLogic.js",
+      "__unresolved_6": "assets/scripts/map/MapProxy.js",
+      "__unresolved_7": "assets/scripts/map/MapResLogic.js",
+      "__unresolved_8": "assets/scripts/map/MapUtil.js",
+      "__unresolved_9": "assets/scripts/map/MapFacilityBuildLogic.js",
+      "__unresolved_10": "assets/scripts/map/MapBuildTagLogic.js",
+      "__unresolved_11": "assets/scripts/map/MapSysCityLogic.js",
+      "__unresolved_12": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/scene/MapScene.js",
+    "mTimestamp": 1647658977531
+  },
+  "assets/scripts/scene/LoginScene.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_2": "assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/scene/LoginScene.js",
+    "mTimestamp": 1647658977655
+  },
+  "assets/scripts/skill/SkillCommand.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/config/ServerConfig.js",
+      "__unresolved_2": "assets/scripts/network/socket/NetManager.js",
+      "__unresolved_3": "assets/scripts/skill/SkillProxy.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/skill/SkillCommand.js",
+    "mTimestamp": 1647658977544
+  },
+  "assets/scripts/skill/SkillProxy.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/skill/SkillProxy.js",
+    "mTimestamp": 1647658977632
+  },
+  "assets/scripts/tools/MapTool.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapProxy.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/tools/MapTool.js",
+    "mTimestamp": 1647658977694
+  },
+  "assets/scripts/union/UnionApplyItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/union/UnionCommand.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionApplyItemLogic.js",
+    "mTimestamp": 1647658977668
+  },
+  "assets/scripts/tools/GeneralTool.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/core/LoaderManager.js",
+      "__unresolved_2": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "assets/scripts/map/ui/GeneralRosterLogic.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/tools/GeneralTool.js",
+    "mTimestamp": 1647658977621
+  },
+  "assets/scripts/union/UnionApplyLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_1": "assets/scripts/union/UnionCommand.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionApplyLogic.js",
+    "mTimestamp": 1647658977711
+  },
+  "assets/scripts/union/UnionCreateLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionCreateLogic.js",
+    "mTimestamp": 1647658977730
+  },
+  "assets/scripts/union/UnionItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionItemLogic.js",
+    "mTimestamp": 1647658977749
+  },
+  "assets/scripts/union/UnionCommand.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/network/socket/NetManager.js",
+      "__unresolved_3": "assets/scripts/config/ServerConfig.js",
+      "__unresolved_4": "assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "assets/scripts/union/UnionProxy.js",
+      "__unresolved_5": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionCommand.js",
+    "mTimestamp": 1647658978074
+  },
+  "assets/scripts/union/UnionLobbyLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionLobbyLogic.js",
+    "mTimestamp": 1647658977803
+  },
+  "assets/scripts/union/UnionLogLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionLogLogic.js",
+    "mTimestamp": 1647658977822
+  },
+  "assets/scripts/union/UnionLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionLogic.js",
+    "mTimestamp": 1647658977788
+  },
+  "assets/scripts/union/UnionLogItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/utils/DateUtil.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionLogItemLogic.js",
+    "mTimestamp": 1647658977762
+  },
+  "assets/scripts/union/UnionMemItemLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionMemItemLogic.js",
+    "mTimestamp": 1647658977868
+  },
+  "assets/scripts/union/UnionMemberItemOpLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "assets/scripts/union/UnionCommand.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionMemberItemOpLogic.js",
+    "mTimestamp": 1647658977850
+  },
+  "assets/scripts/union/UnionMainLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionMainLogic.js",
+    "mTimestamp": 1647658977899
+  },
+  "assets/scripts/union/UnionMemberLogic.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "assets/scripts/union/UnionMemberItemOpLogic.js",
+      "__unresolved_4": "assets/scripts/utils/EventMgr.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionMemberLogic.js",
+    "mTimestamp": 1647658977958
+  },
+  "assets/scripts/union/UnionProxy.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_2": "assets/scripts/map/MapCommand.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/union/UnionProxy.js",
+    "mTimestamp": 1647658977925
+  },
+  "assets/scripts/utils/BgScale.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/utils/BgScale.js",
+    "mTimestamp": 1647658977983
+  },
+  "assets/scripts/utils/EventMgr.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/utils/EventMgr.js",
+    "mTimestamp": 1647658978026
+  },
+  "assets/scripts/utils/DateUtil.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/utils/DateUtil.js",
+    "mTimestamp": 1647658977999
+  },
+  "assets/scripts/utils/Toast.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/utils/Toast.js",
+    "mTimestamp": 1647658978010
+  },
+  "assets/scripts/utils/ListLogic.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/utils/ListLogic.js",
+    "mTimestamp": 1647658978162
+  },
+  "assets/scripts/utils/Modal.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/utils/Modal.js",
+    "mTimestamp": 1647658978179
+  },
+  "assets/scripts/utils/LocalCache.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/utils/LocalCache.js",
+    "mTimestamp": 1647658978084
+  },
+  "assets/scripts/utils/Tools.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/scripts/utils/LocalCache.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/utils/Tools.js",
+    "mTimestamp": 1647658978223
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {
+      "__unresolved_0": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/base"
+      },
+      "__unresolved_1": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl"
+      },
+      "__unresolved_2": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl2"
+      },
+      "__unresolved_3": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/3d"
+      },
+      "__unresolved_4": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/2d"
+      },
+      "__unresolved_5": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/ui"
+      },
+      "__unresolved_6": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle"
+      },
+      "__unresolved_7": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle-2d"
+      },
+      "__unresolved_8": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-framework"
+      },
+      "__unresolved_9": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-2d-framework"
+      },
+      "__unresolved_10": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/intersection-2d"
+      },
+      "__unresolved_11": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/primitive"
+      },
+      "__unresolved_12": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/profiler"
+      },
+      "__unresolved_13": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/audio"
+      },
+      "__unresolved_14": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/video"
+      },
+      "__unresolved_15": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/terrain"
+      },
+      "__unresolved_16": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/webview"
+      },
+      "__unresolved_17": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tween"
+      },
+      "__unresolved_18": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tiled-map"
+      },
+      "__unresolved_19": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/spine"
+      },
+      "__unresolved_20": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/dragon-bones"
+      }
+    },
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1647658973522,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "quick-pack:/cce/internal/code-quality/cr.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/code-quality/cr.js",
+    "mTimestamp": 1647658978294
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "__unresolved_0": "assets/scripts/Main.js",
+      "__unresolved_2": "assets/scripts/chat/ChatItemLogic.js",
+      "__unresolved_3": "assets/scripts/chat/ChatLogic.js",
+      "__unresolved_5": "assets/scripts/common/BgLogic.js",
+      "__unresolved_4": "assets/scripts/chat/ChatProxy.js",
+      "__unresolved_1": "assets/scripts/chat/ChatCommand.js",
+      "__unresolved_6": "assets/scripts/common/LoadingLogic.js",
+      "__unresolved_7": "assets/scripts/config/Basci.js",
+      "__unresolved_11": "assets/scripts/config/skill/Skill.js",
+      "__unresolved_12": "assets/scripts/core/LoaderManager.js",
+      "__unresolved_13": "assets/scripts/general/ArmyCommand.js",
+      "__unresolved_14": "assets/scripts/general/ArmyProxy.js",
+      "__unresolved_9": "assets/scripts/config/HttpConfig.js",
+      "__unresolved_15": "assets/scripts/general/GeneralCommand.js",
+      "__unresolved_16": "assets/scripts/general/GeneralProxy.js",
+      "__unresolved_10": "assets/scripts/config/ServerConfig.js",
+      "__unresolved_17": "assets/scripts/libs/convert.js",
+      "__unresolved_20": "assets/scripts/libs/gzip/crc32.js",
+      "__unresolved_18": "assets/scripts/libs/crypto/crypto.js",
+      "__unresolved_19": "assets/scripts/libs/crypto/md5.js",
+      "__unresolved_21": "assets/scripts/libs/gzip/deflate-js.js",
+      "__unresolved_22": "assets/scripts/libs/gzip/gzip.js",
+      "__unresolved_23": "assets/scripts/libs/gzip/rawdeflate.js",
+      "__unresolved_25": "assets/scripts/login/CreateLogic.js",
+      "__unresolved_24": "assets/scripts/libs/gzip/rawinflate.js",
+      "__unresolved_29": "assets/scripts/map/MapArmyLogic.js",
+      "__unresolved_30": "assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_31": "assets/scripts/map/MapBuildProxy.js",
+      "__unresolved_32": "assets/scripts/map/MapBuildTagLogic.js",
+      "__unresolved_27": "assets/scripts/login/LoginLogic.js",
+      "__unresolved_33": "assets/scripts/map/MapBuildTipsLogic.js",
+      "__unresolved_34": "assets/scripts/map/MapCityLogic.js",
+      "__unresolved_26": "assets/scripts/login/LoginCommand.js",
+      "__unresolved_35": "assets/scripts/map/MapCityProxy.js",
+      "__unresolved_28": "assets/scripts/login/LoginProxy.js",
+      "__unresolved_36": "assets/scripts/map/MapClickUILogic.js",
+      "__unresolved_37": "assets/scripts/map/MapCommand.js",
+      "__unresolved_38": "assets/scripts/map/MapFacilityBuildLogic.js",
+      "__unresolved_39": "assets/scripts/map/MapLogic.js",
+      "__unresolved_40": "assets/scripts/map/MapProxy.js",
+      "__unresolved_41": "assets/scripts/map/MapResBuildLogic.js",
+      "__unresolved_42": "assets/scripts/map/MapResLogic.js",
+      "__unresolved_46": "assets/scripts/map/entries/ArmyLogic.js",
+      "__unresolved_43": "assets/scripts/map/MapSysCityLogic.js",
+      "__unresolved_47": "assets/scripts/map/entries/BuildTagLogic.js",
+      "__unresolved_48": "assets/scripts/map/entries/BuildTipsLogic.js",
+      "__unresolved_45": "assets/scripts/map/MapUtil.js",
+      "__unresolved_44": "assets/scripts/map/MapTouchLogic.js",
+      "__unresolved_49": "assets/scripts/map/entries/CityLogic.js",
+      "__unresolved_50": "assets/scripts/map/entries/FacilityBuildLogic.js",
+      "__unresolved_54": "assets/scripts/map/ui/ArmySelectItemLogic.js",
+      "__unresolved_51": "assets/scripts/map/entries/ResBuildLogic.js",
+      "__unresolved_52": "assets/scripts/map/entries/ResLogic.js",
+      "__unresolved_55": "assets/scripts/map/ui/ArmySelectNodeLogic.js",
+      "__unresolved_56": "assets/scripts/map/ui/CityAboutLogic.js",
+      "__unresolved_53": "assets/scripts/map/entries/SysCityLogic.js",
+      "__unresolved_57": "assets/scripts/map/ui/CityArmyItemLogic.js",
+      "__unresolved_58": "assets/scripts/map/ui/CityArmySettingLogic.js",
+      "__unresolved_59": "assets/scripts/map/ui/CityGeneralItemLogic.js",
+      "__unresolved_60": "assets/scripts/map/ui/CollectLogic.js",
+      "__unresolved_61": "assets/scripts/map/ui/Dialog.js",
+      "__unresolved_62": "assets/scripts/map/ui/DrawLogic.js",
+      "__unresolved_63": "assets/scripts/map/ui/DrawRLogic.js",
+      "__unresolved_65": "assets/scripts/map/ui/FacilityDesLogic.js",
+      "__unresolved_64": "assets/scripts/map/ui/FacilityAdditionItemLogic.js",
+      "__unresolved_66": "assets/scripts/map/ui/FacilityItemLogic.js",
+      "__unresolved_67": "assets/scripts/map/ui/FacilityListLogic.js",
+      "__unresolved_68": "assets/scripts/map/ui/FortressAbout.js",
+      "__unresolved_69": "assets/scripts/map/ui/GeneralAddPrLogic.js",
+      "__unresolved_70": "assets/scripts/map/ui/GeneralComposeLogic.js",
+      "__unresolved_71": "assets/scripts/map/ui/GeneralConvertLogic.js",
+      "__unresolved_72": "assets/scripts/map/ui/GeneralDesLogic.js",
+      "__unresolved_73": "assets/scripts/map/ui/GeneralHeadLogic.js",
+      "__unresolved_74": "assets/scripts/map/ui/GeneralInfoLogic.js",
+      "__unresolved_75": "assets/scripts/map/ui/GeneralItemLogic.js",
+      "__unresolved_76": "assets/scripts/map/ui/GeneralListLogic.js",
+      "__unresolved_77": "assets/scripts/map/ui/GeneralRosterListLogic.js",
+      "__unresolved_78": "assets/scripts/map/ui/GeneralRosterLogic.js",
+      "__unresolved_79": "assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_80": "assets/scripts/map/ui/MapUILogic.js",
+      "__unresolved_81": "assets/scripts/map/ui/MapUIProxy.js",
+      "__unresolved_82": "assets/scripts/map/ui/RightArmyItemLogic.js",
+      "__unresolved_84": "assets/scripts/map/ui/RightInfoNodeLogic.js",
+      "__unresolved_85": "assets/scripts/map/ui/RightTagItemLogic.js",
+      "__unresolved_83": "assets/scripts/map/ui/RightCityItemLogic.js",
+      "__unresolved_86": "assets/scripts/map/ui/SkillIconLogic.js",
+      "__unresolved_87": "assets/scripts/map/ui/SkillInfoLogic.js",
+      "__unresolved_88": "assets/scripts/map/ui/SkillItemLogic.js",
+      "__unresolved_90": "assets/scripts/map/ui/SmallMapLogic.js",
+      "__unresolved_89": "assets/scripts/map/ui/SkillLogic.js",
+      "__unresolved_91": "assets/scripts/map/ui/TransformLogic.js",
+      "__unresolved_92": "assets/scripts/map/ui/UnionButtonLogic.js",
+      "__unresolved_94": "assets/scripts/map/ui/WarReportDesItemLogic.js",
+      "__unresolved_93": "assets/scripts/map/ui/WarButtonLogic.js",
+      "__unresolved_98": "assets/scripts/network/http/HttpInvoke.js",
+      "__unresolved_95": "assets/scripts/map/ui/WarReportDesLogic.js",
+      "__unresolved_96": "assets/scripts/map/ui/WarReportItemLogic.js",
+      "__unresolved_97": "assets/scripts/map/ui/WarReportLogic.js",
+      "__unresolved_99": "assets/scripts/network/http/HttpManager.js",
+      "__unresolved_100": "assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_101": "assets/scripts/network/socket/NetManager.js",
+      "__unresolved_102": "assets/scripts/network/socket/NetNode.js",
+      "__unresolved_103": "assets/scripts/network/socket/NetTimer.js",
+      "__unresolved_104": "assets/scripts/network/socket/WebSock.js",
+      "__unresolved_105": "assets/scripts/scene/LoginScene.js",
+      "__unresolved_106": "assets/scripts/scene/MapScene.js",
+      "__unresolved_108": "assets/scripts/skill/SkillProxy.js",
+      "__unresolved_109": "assets/scripts/tools/GeneralTool.js",
+      "__unresolved_110": "assets/scripts/tools/MapTool.js",
+      "__unresolved_107": "assets/scripts/skill/SkillCommand.js",
+      "__unresolved_111": "assets/scripts/union/UnionApplyItemLogic.js",
+      "__unresolved_112": "assets/scripts/union/UnionApplyLogic.js",
+      "__unresolved_113": "assets/scripts/union/UnionCommand.js",
+      "__unresolved_115": "assets/scripts/union/UnionItemLogic.js",
+      "__unresolved_114": "assets/scripts/union/UnionCreateLogic.js",
+      "__unresolved_116": "assets/scripts/union/UnionLobbyLogic.js",
+      "__unresolved_117": "assets/scripts/union/UnionLogItemLogic.js",
+      "__unresolved_118": "assets/scripts/union/UnionLogLogic.js",
+      "__unresolved_119": "assets/scripts/union/UnionLogic.js",
+      "__unresolved_120": "assets/scripts/union/UnionMainLogic.js",
+      "__unresolved_121": "assets/scripts/union/UnionMemItemLogic.js",
+      "__unresolved_122": "assets/scripts/union/UnionMemberItemOpLogic.js",
+      "__unresolved_123": "assets/scripts/union/UnionMemberLogic.js",
+      "__unresolved_124": "assets/scripts/union/UnionProxy.js",
+      "__unresolved_126": "assets/scripts/utils/DateUtil.js",
+      "__unresolved_125": "assets/scripts/utils/BgScale.js",
+      "__unresolved_127": "assets/scripts/utils/EventMgr.js",
+      "__unresolved_128": "assets/scripts/utils/ListLogic.js",
+      "__unresolved_129": "assets/scripts/utils/LocalCache.js",
+      "__unresolved_130": "assets/scripts/utils/Modal.js",
+      "__unresolved_131": "assets/scripts/utils/Toast.js",
+      "__unresolved_132": "assets/scripts/utils/Tools.js",
+      "__unresolved_8": "assets/scripts/config/GameConfig.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1647677578610,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  }
+}

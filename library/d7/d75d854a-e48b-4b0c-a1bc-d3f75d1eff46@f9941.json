@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "world_map_city",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 200,
+      "height": 124
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 200,
+      "height": 124
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d75d854a-e48b-4b0c-a1bc-d3f75d1eff46@6c48a",
+    "packable": true
+  }
+}

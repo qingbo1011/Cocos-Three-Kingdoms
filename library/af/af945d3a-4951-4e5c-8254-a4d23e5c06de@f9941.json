@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hill2",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 22,
+      "width": 399,
+      "height": 261
+    },
+    "offset": {
+      "x": 0.5,
+      "y": -2.5
+    },
+    "originalSize": {
+      "width": 400,
+      "height": 300
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "af945d3a-4951-4e5c-8254-a4d23e5c06de@6c48a",
+    "packable": true
+  }
+}

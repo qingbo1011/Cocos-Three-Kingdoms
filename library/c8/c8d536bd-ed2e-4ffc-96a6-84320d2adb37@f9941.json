@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pet_hx_select_1",
+    "atlas": "",
+    "rect": {
+      "x": 7,
+      "y": 4,
+      "width": 42,
+      "height": 42
+    },
+    "offset": {
+      "x": 0.5,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 55,
+      "height": 49
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c8d536bd-ed2e-4ffc-96a6-84320d2adb37@6c48a",
+    "packable": true
+  }
+}

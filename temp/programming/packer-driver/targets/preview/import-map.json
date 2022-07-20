@@ -1,0 +1,1059 @@
+{
+  "imports": {
+    "cce:/internal/x/cc": "./mods/cce/internal/x/cc.js",
+    "cce:/internal/x/prerequisite-imports": "./mods/cce/internal/x/prerequisite-imports.js"
+  },
+  "scopes": {
+    "./mods/fs/0/assets/scripts/Main.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/core/LoaderManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_7": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_8": "./mods/fs/0/assets/scripts/network/http/HttpManager.js",
+      "__unresolved_11": "./mods/fs/0/assets/scripts/network/socket/NetNode.js",
+      "__unresolved_10": "./mods/fs/0/assets/scripts/network/socket/NetManager.js",
+      "__unresolved_9": "./mods/fs/0/assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_12": "./mods/fs/0/assets/scripts/skill/SkillCommand.js",
+      "__unresolved_15": "./mods/fs/0/assets/scripts/utils/EventMgr.js",
+      "__unresolved_13": "./mods/fs/0/assets/scripts/utils/Toast.js",
+      "__unresolved_14": "./mods/fs/0/assets/scripts/utils/Tools.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/config/GameConfig.js"
+    },
+    "./mods/fs/0/assets/scripts/chat/ChatCommand.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/chat/ChatProxy.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/config/ServerConfig.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/network/socket/NetManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/chat/ChatItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/DateUtil.js"
+    },
+    "./mods/fs/0/assets/scripts/chat/ChatLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/chat/ChatCommand.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/ListLogic.js"
+    },
+    "./mods/fs/0/assets/scripts/chat/ChatProxy.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/core/LoaderManager.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/general/ArmyCommand.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/config/ServerConfig.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/general/ArmyProxy.js",
+      "__unresolved_7": "./mods/fs/0/assets/scripts/general/GeneralProxy.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/network/socket/NetManager.js",
+      "__unresolved_8": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/general/ArmyProxy.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/DateUtil.js"
+    },
+    "./mods/fs/0/assets/scripts/config/GameConfig.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/general/GeneralCommand.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/config/ServerConfig.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/general/GeneralProxy.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/network/socket/NetManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/general/GeneralProxy.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/common/LoadingLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/libs/gzip/deflate-js.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/libs/gzip/rawdeflate.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/libs/gzip/rawinflate.js"
+    },
+    "./mods/fs/0/assets/scripts/libs/crypto/md5.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/login/CreateLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/config/ServerConfig.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/config/Basci.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/libs/crypto/crypto.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/libs/gzip/crc32.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/common/BgLogic.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/config/ServerConfig.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/libs/gzip/rawdeflate.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/login/LoginCommand.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/config/HttpConfig.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/config/ServerConfig.js",
+      "__unresolved_12": "./mods/fs/0/assets/scripts/libs/crypto/md5.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/login/LoginProxy.js",
+      "__unresolved_8": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/network/http/HttpManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/network/socket/NetManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_10": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_11": "./mods/fs/0/assets/scripts/utils/EventMgr.js",
+      "__unresolved_9": "./mods/fs/0/assets/scripts/utils/LocalCache.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/utils/Tools.js"
+    },
+    "./mods/fs/0/assets/scripts/config/HttpConfig.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/libs/convert.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/libs/gzip/gzip.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/libs/gzip/crc32.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/libs/gzip/deflate-js.js"
+    },
+    "./mods/fs/0/assets/scripts/login/LoginProxy.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/libs/gzip/rawinflate.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapArmyLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/general/ArmyProxy.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/entries/ArmyLogic.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/login/LoginLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/LocalCache.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapBuildTagLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/entries/BuildTagLogic.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapBuildProxy.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapProxy.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/config/skill/Skill.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapBaseLayerLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapCommand.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapBuildTipsLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/entries/BuildTipsLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapCityLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/entries/CityLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapCityProxy.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapClickUILogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/ArmyProxy.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapBuildProxy.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/MapCityProxy.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/map/MapProxy.js",
+      "__unresolved_7": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_8": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapCommand.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/config/ServerConfig.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/map/MapBuildProxy.js",
+      "__unresolved_7": "./mods/fs/0/assets/scripts/map/MapCityProxy.js",
+      "__unresolved_8": "./mods/fs/0/assets/scripts/map/MapProxy.js",
+      "__unresolved_9": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_10": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/network/socket/NetManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_11": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapFacilityBuildLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/entries/FacilityBuildLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapResLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/entries/ResLogic.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapResBuildLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/entries/ResBuildLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapProxy.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapSysCityLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/entries/SysCityLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapTouchLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapClickUILogic.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/MapUtil.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapCommand.js"
+    },
+    "./mods/fs/0/assets/scripts/map/entries/ArmyLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/DateUtil.js"
+    },
+    "./mods/fs/0/assets/scripts/map/entries/BuildTagLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/entries/BuildTipsLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/entries/FacilityBuildLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapProxy.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/DateUtil.js"
+    },
+    "./mods/fs/0/assets/scripts/map/entries/ResLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapProxy.js"
+    },
+    "./mods/fs/0/assets/scripts/map/entries/CityLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/ArmySelectItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/ArmyProxy.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/ui/GeneralHeadLogic.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/entries/SysCityLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapProxy.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/ArmySelectNodeLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/ArmySelectItemLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/CityAboutLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/ui/CityArmyItemLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/CityArmyItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/ArmyProxy.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/map/ui/GeneralHeadLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/CityArmySettingLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/ArmyProxy.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/general/GeneralProxy.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_8": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_7": "./mods/fs/0/assets/scripts/map/ui/CityGeneralItemLogic.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_9": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/entries/ResBuildLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/CityGeneralItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/general/GeneralProxy.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/map/ui/GeneralHeadLogic.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_7": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/CollectLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/utils/EventMgr.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/Tools.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/Dialog.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/DrawLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/DrawRLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/ui/GeneralItemLogic.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/FacilityAdditionItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/ui/MapUIProxy.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/FacilityDesLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/FacilityAdditionItemLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/DateUtil.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/FacilityItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/FacilityListLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/ui/FacilityDesLogic.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/ui/FacilityItemLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/GeneralAddPrLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/general/GeneralProxy.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/GeneralItemLogic.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/GeneralComposeLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/ui/GeneralItemLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/GeneralConvertLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/ui/GeneralItemLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/FortressAbout.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/MapProxy.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/map/ui/CityArmyItemLogic.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/GeneralDesLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/general/GeneralProxy.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/ui/GeneralItemLogic.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/map/ui/SkillIconLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/skill/SkillCommand.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/GeneralInfoLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/GeneralHeadLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/GeneralCommand.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/GeneralRosterListLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/GeneralItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/general/GeneralProxy.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/GeneralHeadLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/GeneralListLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/GeneralRosterLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/GeneralProxy.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/ui/GeneralHeadLogic.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/config/ServerConfig.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/map/ui/MapUIProxy.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/network/socket/NetManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/MapUILogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/ui/ArmySelectNodeLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/CityArmySettingLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/ui/FacilityListLogic.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/map/ui/Dialog.js",
+      "__unresolved_8": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_9": "./mods/fs/0/assets/scripts/map/ui/FortressAbout.js",
+      "__unresolved_10": "./mods/fs/0/assets/scripts/map/ui/CityAboutLogic.js",
+      "__unresolved_11": "./mods/fs/0/assets/scripts/map/ui/GeneralListLogic.js",
+      "__unresolved_14": "./mods/fs/0/assets/scripts/map/ui/GeneralInfoLogic.js",
+      "__unresolved_16": "./mods/fs/0/assets/scripts/map/ui/DrawRLogic.js",
+      "__unresolved_18": "./mods/fs/0/assets/scripts/map/ui/SkillInfoLogic.js",
+      "__unresolved_17": "./mods/fs/0/assets/scripts/map/ui/SkillLogic.js",
+      "__unresolved_12": "./mods/fs/0/assets/scripts/map/ui/TransformLogic.js",
+      "__unresolved_15": "./mods/fs/0/assets/scripts/map/ui/WarReportLogic.js",
+      "__unresolved_7": "./mods/fs/0/assets/scripts/union/UnionCommand.js",
+      "__unresolved_19": "./mods/fs/0/assets/scripts/utils/EventMgr.js",
+      "__unresolved_13": "./mods/fs/0/assets/scripts/utils/Tools.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/RightArmyItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/ArmyProxy.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/map/ui/GeneralHeadLogic.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_7": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/RightCityItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/RightTagItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/MapUIProxy.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/DateUtil.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/RightInfoNodeLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/RightArmyItemLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/ui/RightCityItemLogic.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/map/ui/RightTagItemLogic.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/SkillIconLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/skill/SkillCommand.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/SkillInfoLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/SkillIconLogic.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/skill/SkillCommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/SkillItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/ui/SkillIconLogic.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/skill/SkillCommand.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/SkillLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/skill/SkillCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/skill/SkillProxy.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/SmallMapLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/TransformLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/UnionButtonLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/union/UnionCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/WarReportDesItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/general/GeneralCommand.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/WarReportDesLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/ListLogic.js"
+    },
+    "./mods/fs/0/assets/scripts/network/http/HttpInvoke.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/WarButtonLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/WarReportItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/map/ui/GeneralItemLogic.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/map/ui/WarReportLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/ui/WarReportDesLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/ListLogic.js"
+    },
+    "./mods/fs/0/assets/scripts/network/socket/NetNode.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/network/socket/NetTimer.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/network/socket/WebSock.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/network/http/HttpManager.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/network/http/HttpInvoke.js"
+    },
+    "./mods/fs/0/assets/scripts/network/socket/NetTimer.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/network/socket/NetInterface.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/network/socket/NetManager.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/network/socket/NetNode.js"
+    },
+    "./mods/fs/0/assets/scripts/scene/LoginScene.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/network/socket/WebSock.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/libs/crypto/crypto.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/libs/gzip/gzip.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/libs/convert.js"
+    },
+    "./mods/fs/0/assets/scripts/scene/MapScene.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapResBuildLogic.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapBuildTipsLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/MapCityLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/map/MapLogic.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/map/MapProxy.js",
+      "__unresolved_7": "./mods/fs/0/assets/scripts/map/MapResLogic.js",
+      "__unresolved_8": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_9": "./mods/fs/0/assets/scripts/map/MapFacilityBuildLogic.js",
+      "__unresolved_10": "./mods/fs/0/assets/scripts/map/MapBuildTagLogic.js",
+      "__unresolved_11": "./mods/fs/0/assets/scripts/map/MapSysCityLogic.js",
+      "__unresolved_12": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/skill/SkillProxy.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/skill/SkillCommand.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/config/ServerConfig.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/network/socket/NetManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/skill/SkillProxy.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/tools/GeneralTool.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/core/LoaderManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/map/ui/GeneralRosterLogic.js"
+    },
+    "./mods/fs/0/assets/scripts/tools/MapTool.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapProxy.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionApplyLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/union/UnionCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionApplyItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/union/UnionCommand.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionCommand.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/network/socket/NetManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/config/ServerConfig.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/union/UnionProxy.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionCreateLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionLobbyLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionLogItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/DateUtil.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionLogLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionMainLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionMemItemLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionMemberItemOpLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/union/UnionCommand.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionMemberLogic.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/union/UnionCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/union/UnionMemberItemOpLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/utils/EventMgr.js"
+    },
+    "./mods/fs/0/assets/scripts/union/UnionProxy.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/map/MapCommand.js"
+    },
+    "./mods/fs/0/assets/scripts/utils/EventMgr.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/utils/BgScale.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/utils/DateUtil.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/utils/ListLogic.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/utils/LocalCache.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/utils/Modal.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/utils/Toast.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/utils/Tools.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/utils/LocalCache.js"
+    },
+    "./mods/cce/internal/x/cc.js": {
+      "__unresolved_0": "cce:/internal/x/cc-fu/base",
+      "__unresolved_1": "cce:/internal/x/cc-fu/gfx-webgl",
+      "__unresolved_2": "cce:/internal/x/cc-fu/gfx-webgl2",
+      "__unresolved_3": "cce:/internal/x/cc-fu/2d",
+      "__unresolved_4": "cce:/internal/x/cc-fu/ui",
+      "__unresolved_5": "cce:/internal/x/cc-fu/physics-2d-box2d",
+      "__unresolved_6": "cce:/internal/x/cc-fu/physics-2d-framework",
+      "__unresolved_7": "cce:/internal/x/cc-fu/intersection-2d",
+      "__unresolved_8": "cce:/internal/x/cc-fu/profiler",
+      "__unresolved_9": "cce:/internal/x/cc-fu/particle-2d",
+      "__unresolved_10": "cce:/internal/x/cc-fu/audio",
+      "__unresolved_11": "cce:/internal/x/cc-fu/video",
+      "__unresolved_12": "cce:/internal/x/cc-fu/webview",
+      "__unresolved_13": "cce:/internal/x/cc-fu/tween",
+      "__unresolved_14": "cce:/internal/x/cc-fu/tiled-map",
+      "__unresolved_15": "cce:/internal/x/cc-fu/spine",
+      "__unresolved_16": "cce:/internal/x/cc-fu/dragon-bones"
+    },
+    "./mods/cce/internal/x/prerequisite-imports.js": {
+      "__unresolved_0": "./mods/fs/0/assets/scripts/Main.js",
+      "__unresolved_1": "./mods/fs/0/assets/scripts/chat/ChatCommand.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/chat/ChatItemLogic.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/chat/ChatLogic.js",
+      "__unresolved_4": "./mods/fs/0/assets/scripts/chat/ChatProxy.js",
+      "__unresolved_5": "./mods/fs/0/assets/scripts/common/BgLogic.js",
+      "__unresolved_6": "./mods/fs/0/assets/scripts/common/LoadingLogic.js",
+      "__unresolved_11": "./mods/fs/0/assets/scripts/config/skill/Skill.js",
+      "__unresolved_7": "./mods/fs/0/assets/scripts/config/Basci.js",
+      "__unresolved_9": "./mods/fs/0/assets/scripts/config/HttpConfig.js",
+      "__unresolved_10": "./mods/fs/0/assets/scripts/config/ServerConfig.js",
+      "__unresolved_12": "./mods/fs/0/assets/scripts/core/LoaderManager.js",
+      "__unresolved_15": "./mods/fs/0/assets/scripts/general/GeneralCommand.js",
+      "__unresolved_13": "./mods/fs/0/assets/scripts/general/ArmyCommand.js",
+      "__unresolved_14": "./mods/fs/0/assets/scripts/general/ArmyProxy.js",
+      "__unresolved_17": "./mods/fs/0/assets/scripts/libs/convert.js",
+      "__unresolved_16": "./mods/fs/0/assets/scripts/general/GeneralProxy.js",
+      "__unresolved_18": "./mods/fs/0/assets/scripts/libs/crypto/crypto.js",
+      "__unresolved_19": "./mods/fs/0/assets/scripts/libs/crypto/md5.js",
+      "__unresolved_20": "./mods/fs/0/assets/scripts/libs/gzip/crc32.js",
+      "__unresolved_21": "./mods/fs/0/assets/scripts/libs/gzip/deflate-js.js",
+      "__unresolved_23": "./mods/fs/0/assets/scripts/libs/gzip/rawdeflate.js",
+      "__unresolved_22": "./mods/fs/0/assets/scripts/libs/gzip/gzip.js",
+      "__unresolved_24": "./mods/fs/0/assets/scripts/libs/gzip/rawinflate.js",
+      "__unresolved_25": "./mods/fs/0/assets/scripts/login/CreateLogic.js",
+      "__unresolved_29": "./mods/fs/0/assets/scripts/map/MapArmyLogic.js",
+      "__unresolved_26": "./mods/fs/0/assets/scripts/login/LoginCommand.js",
+      "__unresolved_27": "./mods/fs/0/assets/scripts/login/LoginLogic.js",
+      "__unresolved_28": "./mods/fs/0/assets/scripts/login/LoginProxy.js",
+      "__unresolved_30": "./mods/fs/0/assets/scripts/map/MapBaseLayerLogic.js",
+      "__unresolved_31": "./mods/fs/0/assets/scripts/map/MapBuildProxy.js",
+      "__unresolved_32": "./mods/fs/0/assets/scripts/map/MapBuildTagLogic.js",
+      "__unresolved_33": "./mods/fs/0/assets/scripts/map/MapBuildTipsLogic.js",
+      "__unresolved_34": "./mods/fs/0/assets/scripts/map/MapCityLogic.js",
+      "__unresolved_35": "./mods/fs/0/assets/scripts/map/MapCityProxy.js",
+      "__unresolved_36": "./mods/fs/0/assets/scripts/map/MapClickUILogic.js",
+      "__unresolved_37": "./mods/fs/0/assets/scripts/map/MapCommand.js",
+      "__unresolved_38": "./mods/fs/0/assets/scripts/map/MapFacilityBuildLogic.js",
+      "__unresolved_39": "./mods/fs/0/assets/scripts/map/MapLogic.js",
+      "__unresolved_40": "./mods/fs/0/assets/scripts/map/MapProxy.js",
+      "__unresolved_41": "./mods/fs/0/assets/scripts/map/MapResBuildLogic.js",
+      "__unresolved_42": "./mods/fs/0/assets/scripts/map/MapResLogic.js",
+      "__unresolved_43": "./mods/fs/0/assets/scripts/map/MapSysCityLogic.js",
+      "__unresolved_45": "./mods/fs/0/assets/scripts/map/MapUtil.js",
+      "__unresolved_46": "./mods/fs/0/assets/scripts/map/entries/ArmyLogic.js",
+      "__unresolved_44": "./mods/fs/0/assets/scripts/map/MapTouchLogic.js",
+      "__unresolved_49": "./mods/fs/0/assets/scripts/map/entries/CityLogic.js",
+      "__unresolved_48": "./mods/fs/0/assets/scripts/map/entries/BuildTipsLogic.js",
+      "__unresolved_47": "./mods/fs/0/assets/scripts/map/entries/BuildTagLogic.js",
+      "__unresolved_50": "./mods/fs/0/assets/scripts/map/entries/FacilityBuildLogic.js",
+      "__unresolved_54": "./mods/fs/0/assets/scripts/map/ui/ArmySelectItemLogic.js",
+      "__unresolved_51": "./mods/fs/0/assets/scripts/map/entries/ResBuildLogic.js",
+      "__unresolved_52": "./mods/fs/0/assets/scripts/map/entries/ResLogic.js",
+      "__unresolved_53": "./mods/fs/0/assets/scripts/map/entries/SysCityLogic.js",
+      "__unresolved_55": "./mods/fs/0/assets/scripts/map/ui/ArmySelectNodeLogic.js",
+      "__unresolved_56": "./mods/fs/0/assets/scripts/map/ui/CityAboutLogic.js",
+      "__unresolved_57": "./mods/fs/0/assets/scripts/map/ui/CityArmyItemLogic.js",
+      "__unresolved_58": "./mods/fs/0/assets/scripts/map/ui/CityArmySettingLogic.js",
+      "__unresolved_60": "./mods/fs/0/assets/scripts/map/ui/CollectLogic.js",
+      "__unresolved_59": "./mods/fs/0/assets/scripts/map/ui/CityGeneralItemLogic.js",
+      "__unresolved_61": "./mods/fs/0/assets/scripts/map/ui/Dialog.js",
+      "__unresolved_62": "./mods/fs/0/assets/scripts/map/ui/DrawLogic.js",
+      "__unresolved_63": "./mods/fs/0/assets/scripts/map/ui/DrawRLogic.js",
+      "__unresolved_64": "./mods/fs/0/assets/scripts/map/ui/FacilityAdditionItemLogic.js",
+      "__unresolved_65": "./mods/fs/0/assets/scripts/map/ui/FacilityDesLogic.js",
+      "__unresolved_66": "./mods/fs/0/assets/scripts/map/ui/FacilityItemLogic.js",
+      "__unresolved_67": "./mods/fs/0/assets/scripts/map/ui/FacilityListLogic.js",
+      "__unresolved_68": "./mods/fs/0/assets/scripts/map/ui/FortressAbout.js",
+      "__unresolved_69": "./mods/fs/0/assets/scripts/map/ui/GeneralAddPrLogic.js",
+      "__unresolved_71": "./mods/fs/0/assets/scripts/map/ui/GeneralConvertLogic.js",
+      "__unresolved_70": "./mods/fs/0/assets/scripts/map/ui/GeneralComposeLogic.js",
+      "__unresolved_72": "./mods/fs/0/assets/scripts/map/ui/GeneralDesLogic.js",
+      "__unresolved_73": "./mods/fs/0/assets/scripts/map/ui/GeneralHeadLogic.js",
+      "__unresolved_74": "./mods/fs/0/assets/scripts/map/ui/GeneralInfoLogic.js",
+      "__unresolved_75": "./mods/fs/0/assets/scripts/map/ui/GeneralItemLogic.js",
+      "__unresolved_76": "./mods/fs/0/assets/scripts/map/ui/GeneralListLogic.js",
+      "__unresolved_77": "./mods/fs/0/assets/scripts/map/ui/GeneralRosterListLogic.js",
+      "__unresolved_78": "./mods/fs/0/assets/scripts/map/ui/GeneralRosterLogic.js",
+      "__unresolved_79": "./mods/fs/0/assets/scripts/map/ui/MapUICommand.js",
+      "__unresolved_80": "./mods/fs/0/assets/scripts/map/ui/MapUILogic.js",
+      "__unresolved_82": "./mods/fs/0/assets/scripts/map/ui/RightArmyItemLogic.js",
+      "__unresolved_81": "./mods/fs/0/assets/scripts/map/ui/MapUIProxy.js",
+      "__unresolved_83": "./mods/fs/0/assets/scripts/map/ui/RightCityItemLogic.js",
+      "__unresolved_84": "./mods/fs/0/assets/scripts/map/ui/RightInfoNodeLogic.js",
+      "__unresolved_85": "./mods/fs/0/assets/scripts/map/ui/RightTagItemLogic.js",
+      "__unresolved_86": "./mods/fs/0/assets/scripts/map/ui/SkillIconLogic.js",
+      "__unresolved_87": "./mods/fs/0/assets/scripts/map/ui/SkillInfoLogic.js",
+      "__unresolved_88": "./mods/fs/0/assets/scripts/map/ui/SkillItemLogic.js",
+      "__unresolved_89": "./mods/fs/0/assets/scripts/map/ui/SkillLogic.js",
+      "__unresolved_90": "./mods/fs/0/assets/scripts/map/ui/SmallMapLogic.js",
+      "__unresolved_91": "./mods/fs/0/assets/scripts/map/ui/TransformLogic.js",
+      "__unresolved_94": "./mods/fs/0/assets/scripts/map/ui/WarReportDesItemLogic.js",
+      "__unresolved_93": "./mods/fs/0/assets/scripts/map/ui/WarButtonLogic.js",
+      "__unresolved_95": "./mods/fs/0/assets/scripts/map/ui/WarReportDesLogic.js",
+      "__unresolved_92": "./mods/fs/0/assets/scripts/map/ui/UnionButtonLogic.js",
+      "__unresolved_96": "./mods/fs/0/assets/scripts/map/ui/WarReportItemLogic.js",
+      "__unresolved_97": "./mods/fs/0/assets/scripts/map/ui/WarReportLogic.js",
+      "__unresolved_98": "./mods/fs/0/assets/scripts/network/http/HttpInvoke.js",
+      "__unresolved_99": "./mods/fs/0/assets/scripts/network/http/HttpManager.js",
+      "__unresolved_102": "./mods/fs/0/assets/scripts/network/socket/NetNode.js",
+      "__unresolved_101": "./mods/fs/0/assets/scripts/network/socket/NetManager.js",
+      "__unresolved_103": "./mods/fs/0/assets/scripts/network/socket/NetTimer.js",
+      "__unresolved_100": "./mods/fs/0/assets/scripts/network/socket/NetInterface.js",
+      "__unresolved_104": "./mods/fs/0/assets/scripts/network/socket/WebSock.js",
+      "__unresolved_107": "./mods/fs/0/assets/scripts/skill/SkillCommand.js",
+      "__unresolved_106": "./mods/fs/0/assets/scripts/scene/MapScene.js",
+      "__unresolved_105": "./mods/fs/0/assets/scripts/scene/LoginScene.js",
+      "__unresolved_108": "./mods/fs/0/assets/scripts/skill/SkillProxy.js",
+      "__unresolved_109": "./mods/fs/0/assets/scripts/tools/GeneralTool.js",
+      "__unresolved_110": "./mods/fs/0/assets/scripts/tools/MapTool.js",
+      "__unresolved_111": "./mods/fs/0/assets/scripts/union/UnionApplyItemLogic.js",
+      "__unresolved_112": "./mods/fs/0/assets/scripts/union/UnionApplyLogic.js",
+      "__unresolved_113": "./mods/fs/0/assets/scripts/union/UnionCommand.js",
+      "__unresolved_114": "./mods/fs/0/assets/scripts/union/UnionCreateLogic.js",
+      "__unresolved_115": "./mods/fs/0/assets/scripts/union/UnionItemLogic.js",
+      "__unresolved_116": "./mods/fs/0/assets/scripts/union/UnionLobbyLogic.js",
+      "__unresolved_117": "./mods/fs/0/assets/scripts/union/UnionLogItemLogic.js",
+      "__unresolved_118": "./mods/fs/0/assets/scripts/union/UnionLogLogic.js",
+      "__unresolved_120": "./mods/fs/0/assets/scripts/union/UnionMainLogic.js",
+      "__unresolved_119": "./mods/fs/0/assets/scripts/union/UnionLogic.js",
+      "__unresolved_121": "./mods/fs/0/assets/scripts/union/UnionMemItemLogic.js",
+      "__unresolved_122": "./mods/fs/0/assets/scripts/union/UnionMemberItemOpLogic.js",
+      "__unresolved_123": "./mods/fs/0/assets/scripts/union/UnionMemberLogic.js",
+      "__unresolved_124": "./mods/fs/0/assets/scripts/union/UnionProxy.js",
+      "__unresolved_125": "./mods/fs/0/assets/scripts/utils/BgScale.js",
+      "__unresolved_126": "./mods/fs/0/assets/scripts/utils/DateUtil.js",
+      "__unresolved_127": "./mods/fs/0/assets/scripts/utils/EventMgr.js",
+      "__unresolved_128": "./mods/fs/0/assets/scripts/utils/ListLogic.js",
+      "__unresolved_129": "./mods/fs/0/assets/scripts/utils/LocalCache.js",
+      "__unresolved_130": "./mods/fs/0/assets/scripts/utils/Modal.js",
+      "__unresolved_131": "./mods/fs/0/assets/scripts/utils/Toast.js",
+      "__unresolved_132": "./mods/fs/0/assets/scripts/utils/Tools.js",
+      "__unresolved_8": "./mods/fs/0/assets/scripts/config/GameConfig.js"
+    }
+  }
+}

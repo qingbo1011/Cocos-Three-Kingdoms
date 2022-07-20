@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_shibai",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 124,
+      "height": 67
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 124,
+      "height": 67
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "286b4bf3-726f-4e7f-9276-428a2553ee15@6c48a",
+    "packable": true
+  }
+}

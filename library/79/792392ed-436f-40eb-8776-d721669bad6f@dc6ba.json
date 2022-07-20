@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sand_32_3",
+    "atlas": "792392ed-436f-40eb-8776-d721669bad6f",
+    "rect": {
+      "x": 2,
+      "y": 1642,
+      "width": 140,
+      "height": 70
+    },
+    "offset": {
+      "x": -19,
+      "y": 10
+    },
+    "originalSize": {
+      "width": 200,
+      "height": 100
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "0b0c56f8-f731-40cc-ba0f-23a4971a4ee2@6c48a",
+    "packable": true
+  }
+}

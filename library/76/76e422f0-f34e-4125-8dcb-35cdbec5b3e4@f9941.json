@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_set",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 39,
+      "height": 39
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 39,
+      "height": 39
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "76e422f0-f34e-4125-8dcb-35cdbec5b3e4@6c48a",
+    "packable": true
+  }
+}

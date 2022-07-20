@@ -1,0 +1,67 @@
+2022-03-19 11:02:46-log: [Package] menu@1.0.0 enable
+2022-03-19 11:02:46-log: [Package] profile@1.0.0 enable
+2022-03-19 11:02:46-log: [Package] project@1.0.1 enable
+2022-03-19 11:02:46-log: [Package] messages@1.0.0 enable
+2022-03-19 11:02:46-log: [Package] program@1.0.0 enable
+2022-03-19 11:02:46-log: [Package] device@1.0.1 enable
+2022-03-19 11:02:46-log: [Package] ui-kit@1.0.1 enable
+2022-03-19 11:02:46-log: [Package] tester@1.0.0 enable
+2022-03-19 11:02:46-log: [Package] preferences@1.0.0 enable
+2022-03-19 11:02:46-log: Setup mods mgr.: 239.149ms
+2022-03-19 11:02:46-log: [Package] engine@1.0.5 enable
+2022-03-19 11:02:48-log: [Package] programming@1.0.0 enable
+2022-03-19 11:02:49-log: [Package] engine-extends@1.0.0 enable
+2022-03-19 11:02:49-log: [Package] asset-db@1.0.0 enable
+2022-03-19 11:02:49-log: [Package] console@1.0.0 enable
+2022-03-19 11:02:49-log: [Package] scene@1.0.0 enable
+2022-03-19 11:02:49-log: [Package] utils@1.0.0 enable
+2022-03-19 11:02:49-log: [Package] assets@1.0.0 enable
+2022-03-19 11:02:49-log: [Package] inspector@1.0.0 enable
+2022-03-19 11:02:49-log: [Package] hierarchy@1.0.0 enable
+2022-03-19 11:02:50-log: [Package] preview@1.0.1 enable
+2022-03-19 11:02:50-log: [Package] animator@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] builder@1.3.0 enable
+2022-03-19 11:02:51-log: [Package] node-library@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] shortcuts@1.0.1 enable
+2022-03-19 11:02:51-log: [Package] package-asset@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] reference-image@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] animation-graph@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] channel-upload-tools@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] runtime-dev-tools@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] lightmap@1.0.4 enable
+2022-03-19 11:02:51-log: [Package] alipay-mini-game@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] android@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] baidu-mini-game@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] bytedance-mini-game@1.0.1 enable
+2022-03-19 11:02:51-log: [Package] huawei-agc@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] ios@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] ios-app-clip@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] mac@1.0.0 enable
+2022-03-19 11:02:51-log: [Package] native@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] ohos@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] web-desktop@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] web-mobile@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] wechatgame@1.0.1 enable
+2022-03-19 11:02:52-log: [Package] windows@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] cocos-play@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] huawei-quick-game@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] link-sure@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] oppo-mini-game@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] qtt@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] vivo-mini-game@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] cocos-service@3.0.2 enable
+2022-03-19 11:02:52-log: [Package] importer@1.0.0 enable
+2022-03-19 11:02:52-log: [Package] extension@3.0.13 enable
+2022-03-19 11:02:53-log: [Im-plugin] Check im-plugin version.
+2022-03-19 11:02:53-log: [Package] im-plugin@3.0.8 enable
+2022-03-19 11:02:53-log: [Im-plugin] No online info of im-plugin.
+2022-03-19 11:02:58-log: [Scene] begin init
+2022-03-19 11:02:58-log: [Scene] require engine end
+2022-03-19 11:02:58-log: [Scene] Serialize end
+2022-03-19 11:02:58-log: [Scene] configureStartup end
+2022-03-19 11:02:58-log: [Scene] Cocos Creator v3.4.0
+2022-03-19 11:03:03-info: [Scene] Forward render pipeline initialized.
+2022-03-19 11:03:04-log: [Scene] openEngine end
+2022-03-19 11:03:04-log: [Scene] configureEngine end
+2022-03-19 16:35:32-error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'role') in http://localhost:7456/scripting/x/mods/fs/0/assets/scripts/login/LoginProxy.js

@@ -1,0 +1,34 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "map_tiles",
+    "spriteFrames": [
+      "land_ground_1_1",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@b246b",
+      "land_ground_2_1",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@7146e",
+      "land_ground_3_1",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@4fabd",
+      "land_ground_4_1",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@3c20b",
+      "land_ground_5_1",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@d91cf",
+      "land_ground_6_1",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@f7faa",
+      "land_ground_7_1",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@21da0",
+      "land_ground_8_1",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@3c1bd",
+      "land_ground_9_1",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@493a6",
+      "rain_hill3",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@50908",
+      "rain_hill4",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@3f93b",
+      "snow_hill3",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@59881",
+      "snow_hill4",
+      "8263f1ee-4128-4ca5-acb5-74ea1c800c44@88c7c"
+    ]
+  }
+}

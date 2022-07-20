@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_shengli",
+    "atlas": "",
+    "rect": {
+      "x": 4,
+      "y": 0,
+      "width": 115,
+      "height": 67
+    },
+    "offset": {
+      "x": -0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 124,
+      "height": 67
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5021d4d7-5747-44d4-ae9a-5ad87c7ea36d@6c48a",
+    "packable": true
+  }
+}

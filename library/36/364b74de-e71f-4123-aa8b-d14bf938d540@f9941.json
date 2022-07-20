@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sys_city",
+    "atlas": "",
+    "rect": {
+      "x": 24,
+      "y": 0,
+      "width": 748,
+      "height": 400
+    },
+    "offset": {
+      "x": -2,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 800,
+      "height": 400
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "364b74de-e71f-4123-aa8b-d14bf938d540@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_window_3",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 502,
+      "height": 297
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 502,
+      "height": 297
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "e915db33-6199-43aa-8670-67ed75813d02@6c48a",
+    "packable": true
+  }
+}

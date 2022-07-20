@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diban1_23",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 282,
+      "height": 202
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 282,
+      "height": 202
+    },
+    "rotated": false,
+    "capInsets": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "texture": "15f8a947-a396-40d9-98cb-e3e6f21f06f3@6c48a",
+    "packable": true
+  }
+}

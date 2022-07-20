@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhly_item_light",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 229,
+      "height": 329
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 229,
+      "height": 329
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "1d34c446-bf47-40f5-b28e-76776d51d363@6c48a",
+    "packable": true
+  }
+}

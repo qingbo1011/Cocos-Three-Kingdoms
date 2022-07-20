@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dev_land_34",
+    "atlas": "7b50c053-ff00-4767-a66c-eab2ab0f6614",
+    "rect": {
+      "x": 294,
+      "y": 684,
+      "width": 196,
+      "height": 116
+    },
+    "offset": {
+      "x": 6,
+      "y": 17
+    },
+    "originalSize": {
+      "width": 400,
+      "height": 220
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "64b5530d-b9e2-4784-8120-28b24461cc3b@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "path": {
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\land.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\land.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\hill.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\hill.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\dev_land.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\dev_land.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\component_outside.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\component_outside.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\map_frame_color.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\map_frame_color.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\map_res.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\map_res.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\map_tiles.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\map_tiles.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\map_qibing.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\map_qibing.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\cityComponent.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\cityComponent.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\map.tmx": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\land.tsx",
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\land.png",
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\hill.tsx",
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\hill.png",
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\water_edge_3.tsx",
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\water_edge_3.png",
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\water_edge_1.tsx",
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\water_edge_1.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\sand_edge_1.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\sand_edge_1.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\sand_edge_3.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\sand_edge_3.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\water_edge_1.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\water_edge_1.png"
+    ],
+    "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\water_edge_3.plist": [
+      "D:\\git\\github\\yyyyy\\game\\slgclient-main\\slgclient-main\\assets\\resources\\world\\water_edge_3.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\dev_land.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\dev_land.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\component_outside.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\component_outside.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\map_frame_color.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\map_frame_color.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\cityComponent.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\cityComponent.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\map_tiles.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\map_tiles.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\map_qibing.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\map_qibing.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\sand_edge_1.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\sand_edge_1.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\sand_edge_3.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\sand_edge_3.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\water_edge_3.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\water_edge_3.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\map.tmx": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\land.tsx",
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\land.png",
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\hill.tsx",
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\hill.png",
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\water_edge_3.tsx",
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\water_edge_3.png",
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\water_edge_1.tsx",
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\water_edge_1.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\land.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\land.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\hill.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\hill.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\map_res.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\map_res.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\water_edge_1.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\slg-app\\assets\\resources\\world\\water_edge_1.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\dev_land.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\dev_land.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\component_outside.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\component_outside.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\map_frame_color.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\map_frame_color.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\cityComponent.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\cityComponent.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\map_tiles.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\map_tiles.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\map_qibing.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\map_qibing.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\sand_edge_1.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\sand_edge_1.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\sand_edge_3.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\sand_edge_3.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\water_edge_3.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\water_edge_3.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\map.tmx": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\land.tsx",
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\land.png",
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\hill.tsx",
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\hill.png",
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\water_edge_3.tsx",
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\water_edge_3.png",
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\water_edge_1.tsx",
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\water_edge_1.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\land.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\land.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\hill.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\hill.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\map_res.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\map_res.png"
+    ],
+    "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\water_edge_1.plist": [
+      "D:\\git\\github\\mszlu\\games\\slg\\ms-sg\\assets\\resources\\world\\water_edge_1.png"
+    ]
+  }
+}

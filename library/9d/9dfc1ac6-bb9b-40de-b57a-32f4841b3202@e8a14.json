@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "expansion_of_tips_3_3",
+    "atlas": "9dfc1ac6-bb9b-40de-b57a-32f4841b3202",
+    "rect": {
+      "x": 400,
+      "y": 100,
+      "width": 200,
+      "height": 100
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 200,
+      "height": 100
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "85c6a86e-749f-4dec-aa72-fe6ef6f90278@6c48a",
+    "packable": true
+  }
+}

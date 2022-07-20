@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tactics_2",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 148,
+      "height": 148
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 148,
+      "height": 148
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "890aca29-71c6-46c5-a44f-12d689ef6eca@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "map_qibing_90_7",
+    "atlas": "2e24f1d7-0304-4210-92ad-541690065a16",
+    "rect": {
+      "x": 164,
+      "y": 1410,
+      "width": 36,
+      "height": 76
+    },
+    "offset": {
+      "x": -4,
+      "y": -8
+    },
+    "originalSize": {
+      "width": 160,
+      "height": 120
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "7bd2865e-7e24-418c-85fb-1ee4e1c8bb5a@6c48a",
+    "packable": true
+  }
+}

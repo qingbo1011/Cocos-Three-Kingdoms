@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "water_edge_1",
+    "atlas": "",
+    "rect": {
+      "x": 16,
+      "y": 2,
+      "width": 1802,
+      "height": 304
+    },
+    "offset": {
+      "x": 7,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 1820,
+      "height": 308
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "46f47009-0266-4b9e-ad66-f66338254a25@6c48a",
+    "packable": true
+  }
+}

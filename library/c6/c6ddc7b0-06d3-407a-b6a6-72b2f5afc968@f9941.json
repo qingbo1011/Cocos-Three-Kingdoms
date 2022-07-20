@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_demon4",
+    "atlas": "",
+    "rect": {
+      "x": 11,
+      "y": 9,
+      "width": 71,
+      "height": 68
+    },
+    "offset": {
+      "x": -1,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 95,
+      "height": 84
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c6ddc7b0-06d3-407a-b6a6-72b2f5afc968@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "weather_dev_land_31",
+    "atlas": "7b50c053-ff00-4767-a66c-eab2ab0f6614",
+    "rect": {
+      "x": 2,
+      "y": 1350,
+      "width": 252,
+      "height": 128
+    },
+    "offset": {
+      "x": 18,
+      "y": 2
+    },
+    "originalSize": {
+      "width": 400,
+      "height": 220
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "64b5530d-b9e2-4784-8120-28b24461cc3b@6c48a",
+    "packable": true
+  }
+}

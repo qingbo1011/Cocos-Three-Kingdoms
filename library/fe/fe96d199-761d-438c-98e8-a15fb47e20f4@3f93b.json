@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rain_hill4",
+    "atlas": "fe96d199-761d-438c-98e8-a15fb47e20f4",
+    "rect": {
+      "x": 0,
+      "y": 600,
+      "width": 600,
+      "height": 300
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 600,
+      "height": 300
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "89d565c0-0359-44b5-b918-d8acdb1dac79@6c48a",
+    "packable": true
+  }
+}

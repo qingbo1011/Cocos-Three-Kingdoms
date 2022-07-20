@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_team_item4",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 42,
+      "height": 42
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 42,
+      "height": 42
+    },
+    "rotated": false,
+    "capInsets": [
+      15,
+      15,
+      14,
+      16
+    ],
+    "texture": "812884e0-ebed-4ee0-a86a-372c8cec104b@6c48a",
+    "packable": true
+  }
+}

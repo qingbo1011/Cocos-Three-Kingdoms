@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "friends_icon_cross",
+    "atlas": "",
+    "rect": {
+      "x": 4,
+      "y": 0,
+      "width": 45,
+      "height": 38
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 52,
+      "height": 38
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "34c2d5e8-0053-4a66-ac32-67dd893831e7@6c48a",
+    "packable": true
+  }
+}

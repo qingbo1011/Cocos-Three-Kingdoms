@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_gem_21",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 21,
+      "height": 21
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 21,
+      "height": 21
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "441ca042-9587-4302-99fe-c078230ba690@6c48a",
+    "packable": true
+  }
+}

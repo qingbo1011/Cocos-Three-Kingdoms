@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_pw_green",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 59,
+      "height": 49
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 59,
+      "height": 49
+    },
+    "rotated": false,
+    "capInsets": [
+      12,
+      12,
+      16,
+      17
+    ],
+    "texture": "5d572b55-9243-4277-b649-d29ac4fcb01f@6c48a",
+    "packable": true
+  }
+}

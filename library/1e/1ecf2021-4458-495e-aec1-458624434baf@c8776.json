@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huangjin_2",
+    "atlas": "1ecf2021-4458-495e-aec1-458624434baf",
+    "rect": {
+      "x": 180,
+      "y": 1450,
+      "width": 320,
+      "height": 158
+    },
+    "offset": {
+      "x": -40,
+      "y": 2
+    },
+    "originalSize": {
+      "width": 400,
+      "height": 200
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c17f27cd-d1f4-4080-9472-1367d033093a@6c48a",
+    "packable": true
+  }
+}

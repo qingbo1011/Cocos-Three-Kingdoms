@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_btn_denglu",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 158,
+      "height": 66
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 158,
+      "height": 66
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "8e3a80e8-3964-4272-9931-d69ee7f85b59@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "land_1_5",
+    "atlas": "21e5fb5c-7af7-469a-bed3-48455c2692bd",
+    "rect": {
+      "x": 800,
+      "y": 0,
+      "width": 200,
+      "height": 110
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 200,
+      "height": 110
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "565d083b-762e-4d78-a300-1f16322986fd@6c48a",
+    "packable": true
+  }
+}

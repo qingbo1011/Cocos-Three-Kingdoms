@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chongzhi_icon_suo",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 4,
+      "width": 26,
+      "height": 31
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 30,
+      "height": 38
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "fab1f971-2d4b-4819-9e50-bf6fe2e38407@6c48a",
+    "packable": true
+  }
+}

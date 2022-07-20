@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "map_tag_icon",
+    "atlas": "",
+    "rect": {
+      "x": 91,
+      "y": 13,
+      "width": 331,
+      "height": 485
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 512,
+      "height": 512
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "7a7c050d-1bbc-4409-bdab-5cd977b4b6bc@6c48a",
+    "packable": true
+  }
+}

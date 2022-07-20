@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tipsbiaoti",
+    "atlas": "",
+    "rect": {
+      "x": 26,
+      "y": 3,
+      "width": 230,
+      "height": 36
+    },
+    "offset": {
+      "x": -2,
+      "y": 1.5
+    },
+    "originalSize": {
+      "width": 286,
+      "height": 45
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c34403af-2813-4a81-b865-f8bd30740681@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "water_51_3",
+    "atlas": "01a09a38-9466-4e3a-a4d8-03e7d6d69e5b",
+    "rect": {
+      "x": 158,
+      "y": 1212,
+      "width": 144,
+      "height": 76
+    },
+    "offset": {
+      "x": 21,
+      "y": 12
+    },
+    "originalSize": {
+      "width": 200,
+      "height": 100
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "4350cba3-887c-4c80-b9b2-edf0a2db71d2@6c48a",
+    "packable": true
+  }
+}

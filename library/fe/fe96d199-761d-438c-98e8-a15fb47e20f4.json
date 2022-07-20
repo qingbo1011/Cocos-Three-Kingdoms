@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "hill",
+    "spriteFrames": [
+      "hill1",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@8e247",
+      "hill2",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@d0b70",
+      "hill3",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@9d4e2",
+      "hill4",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@cded3",
+      "hill5",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@89a66",
+      "rain_hill1",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@44a09",
+      "rain_hill2",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@0f4c1",
+      "rain_hill3",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@50908",
+      "rain_hill4",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@3f93b",
+      "rain_hill5",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@eaa65",
+      "snow_hill1",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@e31e8",
+      "snow_hill2",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@c372c",
+      "snow_hill3",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@59881",
+      "snow_hill4",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@88c7c",
+      "snow_hill5",
+      "fe96d199-761d-438c-98e8-a15fb47e20f4@80e56"
+    ]
+  }
+}

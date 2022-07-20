@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_btn_zhuce",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 158,
+      "height": 66
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 158,
+      "height": 66
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "76c35490-8a3c-49c2-9f64-d088cb2bb68d@6c48a",
+    "packable": true
+  }
+}
